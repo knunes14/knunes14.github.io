@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1498511225742-7831d53e64b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+   }
+   
+   
+   h1 {
+    color: #551C03;
+    font-family: 'Roboto Serif', serif;
+    font-size: 4em;
+    text-align: center;
+    margin: 30px;
+   }
+   
+   
+   h2 {
+    color: #9B481B;
+    font-family: 'Roboto Serif', serif;
+    text-align: center;
+    margin: 30px;
+   }
+   
+   
+   #game {
+    text-align: center;
+   }
+   
+   
+   #game div {
+    border: 2px solid #F5E6D8;
+    border-radius: 15px;
+    width: 18%;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+   }
+   
